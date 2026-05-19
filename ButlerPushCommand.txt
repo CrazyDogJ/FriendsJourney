@@ -1,0 +1,3 @@
+set HTTP_PROXY=http://127.0.0.1:31180
+set HTTPS_PROXY=http://127.0.0.1:31180
+butler push "F:\UE5.6Projects\FriendsJourney\Saved\StagedBuilds\Windows" crazydogj/friends-journey:win

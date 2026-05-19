@@ -1,0 +1,43 @@
+高优先度：
+制作环境与关卡
+
+中优先度：
+Inventory System：
+
+
+Minimap：
+
+低优先度/描述：
+Als Movement：
+基本已满足
+无法在陡峭地形自动触发攀爬！！！
+
+Building System：
+核心已完成，需要结合其它系统进行实践；
+Building Actor Description可能需要优化对于获取世界的方法
+
+Graphic Settings：
+基本已满足
+
+Simple Loading Screen：
+按需开发，现阶段已基本满足需求
+
+Streaming Level Save：
+已基本满足需求，可能需要关注线程问题，存读档的优化问题
+
+Stylized Sky System：
+In Dev，缺少天气管理，仅有简单的日夜循环与美术颜色曲线管理
+
+ThumbnailGeneratorAdvanced：
+编辑器插件，用于生成缩略图，方便物品栏图标的制作
+
+ToonShader：
+已不再更新，按需修改即可！
+
+User Widgets Reuse：
+小插件，用于全局单例控件管理与类基础的控件池管理
+已完成实现，依赖FUserWidgetPool，并使用其功能，其他控件相关的系统会依赖于该插件
+
+Special Thanks To : 
+QQ 浅海狐鲛 3783927781
+QQ 朝曦 785102464
