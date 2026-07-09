@@ -7,6 +7,7 @@
 #include "Engine/DataAsset.h"
 #include "CharacterDescriptionDataAsset.generated.h"
 
+class UOverlayMaterialDataAsset;
 class UAlsMovementSettings_Extend;
 class UGameplayAbility;
 class UCharGameplayAttributeEvent;
@@ -31,8 +32,11 @@ struct FCharacterMeshDescription
 	TSoftClassPtr<UAnimInstance> AnimInstanceClass;
 
 	/** Soft object ptr for outline materials. */
-	UPROPERTY(EditAnywhere, BlueprintReadWrite)
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, meta=(DeprecatedProperty))
 	TArray<TSoftObjectPtr<UMaterialInterface>> OverlayMaterials;
+
+	UPROPERTY(EditAnywhere, BlueprintReadWrite)
+	TSoftObjectPtr<UOverlayMaterialDataAsset> OverlayMaterialDataAsset;
 };
 
 USTRUCT(BlueprintType)
