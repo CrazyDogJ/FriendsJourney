@@ -8,8 +8,9 @@ public class FriendsJourneyTarget : TargetRules
 	public FriendsJourneyTarget(TargetInfo Target) : base(Target)
 	{
 		Type = TargetType.Game;
-		DefaultBuildSettings = BuildSettingsVersion.V5;
-		IncludeOrderVersion = EngineIncludeOrderVersion.Unreal5_6;
-		ExtraModuleNames.Add("FriendsJourney");
+		DefaultBuildSettings = BuildSettingsVersion.V7;
+		IncludeOrderVersion = EngineIncludeOrderVersion.Unreal5_8;
+		
+		ExtraModuleNames.AddRange( new string[] { "FriendsJourney" } );
 	}
 }
