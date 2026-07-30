@@ -41,3 +41,5 @@ User Widgets Reuse：
 Special Thanks To : 
 QQ 浅海狐鲛 3783927781
 QQ 朝曦 785102464
+
+"F:\UE_Versions\UE_5.8\Engine\Binaries\Win64\UnrealEditor-Cmd.exe" "F:\UE5.6Projects\FriendsJourney\FriendsJourney.uproject" /Game/Levels/Lvl_DevTestStylized.Lvl_DevTestStylized -run=WorldPartitionBuilderCommandlet -Builder=WorldPartitionHLODsBuilder -AllowCommandletRendering -Unattended

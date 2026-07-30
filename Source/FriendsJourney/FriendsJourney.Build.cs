@@ -28,7 +28,6 @@ public class FriendsJourney : ModuleRules
 			"AIModule",
 			"PhysicsCore",
 			"NavigationSystem", 
-			"ChaosVehicles",
 			"OverlayMaterialManager"
 		});
 

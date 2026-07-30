@@ -257,6 +257,14 @@
 		{
 			"Name": "ChaosModularVehicle",
 			"Enabled": true
+		},
+		{
+			"Name": "Water",
+			"Enabled": true
+		},
+		{
+			"Name": "GameplayAbilities",
+			"Enabled": true
 		}
 	]
 }

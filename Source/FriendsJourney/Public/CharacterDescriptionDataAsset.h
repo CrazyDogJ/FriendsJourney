@@ -32,8 +32,8 @@ struct FCharacterMeshDescription
 	TSoftClassPtr<UAnimInstance> AnimInstanceClass;
 
 	/** Soft object ptr for outline materials. */
-	UPROPERTY(EditAnywhere, BlueprintReadWrite, meta=(DeprecatedProperty))
-	TArray<TSoftObjectPtr<UMaterialInterface>> OverlayMaterials;
+	// UPROPERTY(EditAnywhere, BlueprintReadWrite, meta=(DeprecatedProperty))
+	// TArray<TSoftObjectPtr<UMaterialInterface>> OverlayMaterials;
 
 	UPROPERTY(EditAnywhere, BlueprintReadWrite)
 	TSoftObjectPtr<UOverlayMaterialDataAsset> OverlayMaterialDataAsset;
