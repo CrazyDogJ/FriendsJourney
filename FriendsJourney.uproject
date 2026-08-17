@@ -265,6 +265,22 @@
 		{
 			"Name": "GameplayAbilities",
 			"Enabled": true
+		},
+		{
+			"Name": "GameFeatures",
+			"Enabled": true
+		},
+		{
+			"Name": "TestMap",
+			"Enabled": false
+		},
+		{
+			"Name": "Map_TestLevel",
+			"Enabled": false
+		},
+		{
+			"Name": "Char_LeafFrog",
+			"Enabled": true
 		}
 	]
 }

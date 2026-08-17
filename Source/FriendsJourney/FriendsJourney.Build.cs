@@ -28,7 +28,8 @@ public class FriendsJourney : ModuleRules
 			"AIModule",
 			"PhysicsCore",
 			"NavigationSystem", 
-			"OverlayMaterialManager"
+			"OverlayMaterialManager", 
+			"GameFeatures"
 		});
 
 		PrivateDependencyModuleNames.AddRange(new string[]
