@@ -1,0 +1,99 @@
+[submodule "AdvancedSessionsPlugin"]
+	path = Plugins/AdvancedSessionsPlugin
+	url = https://github.com/mordentral/AdvancedSessionsPlugin.git
+
+[submodule "ALS-Refactored"]
+	path = Plugins/ALS-Refactored
+	url = https://github.com/CrazyDogJ/ALS-Refactored.git
+
+[submodule "AmbientLifeSystem"]
+	path = Plugins/AmbientLifeSystem
+	url = https://github.com/CrazyDogJ/AmbientLifeSystem.git
+
+[submodule "BuildingSystem"]
+	path = Plugins/BuildingSystem
+	url = https://github.com/CrazyDogJ/BuildingSystem.git
+
+[submodule "ChaosVehicleExtend"]
+	path = Plugins/ChaosVehicleExtend
+	url = https://github.com/CrazyDogJ/ChaosVehicleExtend.git
+
+[submodule "CommonAiKit"]
+	path = Plugins/CommonAiKit
+	url = https://github.com/CrazyDogJ/CommonAiKit.git
+
+[submodule "FlowGraph"]
+	path = Plugins/FlowGraph
+	url = https://github.com/CrazyDogJ/FlowGraph.git
+
+[submodule "GenericTagTeam"]
+	path = Plugins/GenericTagTeam
+	url = https://github.com/CrazyDogJ/GenericTagTeam.git
+
+[submodule "GraphicSettings"]
+	path = Plugins/GraphicSettings
+	url = https://github.com/CrazyDogJ/GraphicSettings.git
+
+[submodule "InputTips"]
+	path = Plugins/InputTips
+	url = https://github.com/CrazyDogJ/InputTips.git
+
+[submodule "InstancedStructFragment"]
+	path = Plugins/InstancedStructFragment
+	url = https://github.com/CrazyDogJ/InstancedStructFragment.git
+
+[submodule "InventorySystem"]
+	path = Plugins/InventorySystem
+	url = https://github.com/CrazyDogJ/InventorySystem.git
+
+[submodule "LandscapeInteract"]
+	path = Plugins/LandscapeInteract
+	url = https://github.com/CrazyDogJ/LandscapeInteract.git
+
+[submodule "Minimap"]
+	path = Plugins/Minimap
+	url = https://github.com/CrazyDogJ/GenericMinimapSystem.git
+
+[submodule "ModManager"]
+	path = Plugins/ModManager
+	url = https://github.com/CrazyDogJ/ModManager.git
+
+[submodule "NetRelevantObject"]
+	path = Plugins/NetRelevantObject
+	url = https://github.com/CrazyDogJ/NetRelevantObject.git
+
+[submodule "OverlayMaterialManager"]
+	path = Plugins/OverlayMaterialManager
+	url = https://github.com/CrazyDogJ/OverlayMaterialManager.git
+
+[submodule "ReplicatedFoliage"]
+	path = Plugins/ReplicatedFoliage
+	url = https://github.com/CrazyDogJ/ReplicatedFoliage.git
+
+[submodule "SimpleLoadingScreen"]
+	path = Plugins/SimpleLoadingScreen
+	url = https://github.com/CrazyDogJ/SimpleLoadingScreen.git
+
+[submodule "StencilManager"]
+	path = Plugins/StencilManager
+	url = https://github.com/CrazyDogJ/StencilManager.git
+
+[submodule "StreamingLevelSave"]
+	path = Plugins/StreamingLevelSave
+	url = https://github.com/CrazyDogJ/StreamingLevelSave.git
+
+[submodule "StringTableBrowser"]
+	path = Plugins/StringTableBrowser
+	url = https://github.com/CrazyDogJ/StringTableBrowser.git
+
+[submodule "StylizedSkySystem"]
+	path = Plugins/StylizedSkySystem
+	url = https://github.com/CrazyDogJ/StylizedSkySystem.git
+
+[submodule "ThumbnailGeneratorAdvanced"]
+	path = Plugins/ThumbnailGeneratorAdvanced
+	url = https://github.com/CrazyDogJ/ThumbnailGeneratorAdvanced.git
+
+[submodule "UserWidgetsReuse"]
+	path = Plugins/UserWidgetsReuse
+	url = https://github.com/CrazyDogJ/UserWidgetsReuse.git
