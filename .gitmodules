@@ -103,4 +103,4 @@
 	url = https://github.com/CrazyDogJ/Railway.git
 [submodule "Plugins/WidgetSplineSystem"]
 	path = Plugins/WidgetSplineSystem
-	url = https://github.com/ArmainAP/Unreal-Engine-Widget-Spline-System.git
+	url = https://github.com/CrazyDogJ/Unreal-Engine-Widget-Spline-System.git
