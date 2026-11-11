@@ -97,3 +97,10 @@
 [submodule "UserWidgetsReuse"]
 	path = Plugins/UserWidgetsReuse
 	url = https://github.com/CrazyDogJ/UserWidgetsReuse.git
+
+[submodule "Plugins/Railway"]
+	path = Plugins/Railway
+	url = https://github.com/CrazyDogJ/Railway.git
+[submodule "Plugins/WidgetSplineSystem"]
+	path = Plugins/WidgetSplineSystem
+	url = https://github.com/ArmainAP/Unreal-Engine-Widget-Spline-System.git
